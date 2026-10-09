@@ -1,5 +1,11 @@
 # e-car Loan Pricing Dashboard
 
+## About
+
+Built as an in-class assignment for Business Analytics at Columbia University (Fall 2026). The goal was to turn an interactive Python pricing tool into a web dashboard for a fictional lender, e-car, using AI. I did this by taking the Python code and writing the right prompt in Claude.
+
+## Overview
+
 An interactive web dashboard that estimates the profit-maximizing APR for a car loan at **e-car**. Adjust the applicant and market inputs, and the chart shows expected profit across APRs from 2% to 10%, with the best APR highlighted.
 
 This is a browser version of the original Python notebook (`ipywidgets` `interact` around `pricing_helper`). It is a single self-contained HTML file with no dependencies, build step or server.
